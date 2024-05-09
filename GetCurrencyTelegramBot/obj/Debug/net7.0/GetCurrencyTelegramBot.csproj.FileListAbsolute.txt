@@ -1,0 +1,57 @@
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.AssemblyReference.cache
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.AssemblyInfoInputs.cache
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.AssemblyInfo.cs
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.CoreCompileInputs.cache
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.exe
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.deps.json
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.runtimeconfig.json
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.dll
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.pdb
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\CoinMarketCap.dll
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\bin\Debug\net7.0\Telegram.Bot.dll
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.CopyComplete
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.dll
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\refint\GetCurrencyTelegramBot.dll
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.pdb
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.genruntimeconfig.cache
+E:\GameDev Projects\GetCurrencyTelegramBot\GetCurrencyTelegramBot\obj\Debug\net7.0\ref\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.exe
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.deps.json
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.runtimeconfig.json
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.pdb
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\CoinMarketCap.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\bin\Debug\net7.0\Telegram.Bot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.AssemblyReference.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.AssemblyInfoInputs.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.AssemblyInfo.cs
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.CoreCompileInputs.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.CopyComplete
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\refint\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.pdb
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.genruntimeconfig.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_moreCoins\GetCurrencyTelegramBot\obj\Debug\net7.0\ref\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.exe
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.deps.json
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.runtimeconfig.json
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\GetCurrencyTelegramBot.pdb
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\CoinMarketCap.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\bin\Debug\net7.0\Telegram.Bot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.AssemblyReference.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.AssemblyInfoInputs.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.AssemblyInfo.cs
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.CoreCompileInputs.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.csproj.CopyComplete
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\refint\GetCurrencyTelegramBot.dll
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.pdb
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\GetCurrencyTelegramBot.genruntimeconfig.cache
+E:\GameDev Projects ready-made projects\GetCurrencyTelegramBot_marketCap\GetCurrencyTelegramBot\obj\Debug\net7.0\ref\GetCurrencyTelegramBot.dll
